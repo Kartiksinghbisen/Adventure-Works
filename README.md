@@ -114,24 +114,33 @@ Discover the ultimate toolkit for analyzing the adventure sports industry throug
 
 ## Data Modelling
 
+![Screenshot 2024-05-08 160144](https://github.com/Kartiksinghbisen/Adventure-Works/assets/139736045/47cf2379-52f5-4749-a9f4-2450b5f228ec)
+
 
 ## Dashboards
 
-You can view Interactive Dashboards [here](
-
 * **Exective Dashboards**
 
+![Screenshot 2024-05-08 171734](https://github.com/Kartiksinghbisen/Adventure-Works/assets/139736045/9cabb2e2-0691-483d-a3ac-c43ea46881b4)
 
 * **Map**
 
+![Screenshot 2024-05-08 171750](https://github.com/Kartiksinghbisen/Adventure-Works/assets/139736045/c3f052cd-f616-4abb-8046-a8d08be8098c)
 
 * **Product Detail**
 
+![Screenshot 2024-05-08 171807](https://github.com/Kartiksinghbisen/Adventure-Works/assets/139736045/d481984d-7082-4dbf-b685-c02fcdef5c89)
 
 * **Customer Detail**
 
+![Screenshot 2024-05-08 171823](https://github.com/Kartiksinghbisen/Adventure-Works/assets/139736045/ac9c76e3-db9c-4fda-9e30-35d9c804c78b)
 
 * **Decomposition Tree**
 
+![Screenshot 2024-05-08 171846](https://github.com/Kartiksinghbisen/Adventure-Works/assets/139736045/73ebb4b8-25be-40f4-bd89-fd2eadddbc03)
 
 * **Key Influencers**
+
+![Screenshot 2024-05-08 171902](https://github.com/Kartiksinghbisen/Adventure-Works/assets/139736045/5966398d-b4f5-4832-88e9-2994ca73c900)
+
+* 
